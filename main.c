@@ -10,5 +10,6 @@ int main()
     printf("Hello world!\n");
     printf("Hello world!\n");
     int num = 30;
+    int flag = 0;
     return 0;
 }
