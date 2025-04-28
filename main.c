@@ -13,3 +13,8 @@ int main()
     int flag = 0;
     return 0;
 }
+
+void mensaje()
+{
+    printf("Mensaje....");
+}
