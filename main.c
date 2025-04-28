@@ -9,5 +9,6 @@ int main()
     printf("Hello world!\n");
     printf("Hello world!\n");
     printf("Hello world!\n");
+    int num = 30;
     return 0;
 }
